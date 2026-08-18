@@ -1,0 +1,6 @@
+{
+  "name": "MongoDB Replication & Data Distribution Analysis",
+  "description": "Fintech high-availability & fault-tolerance analysis with 15,000 transactions, 3-node replica set monitoring, failover simulation, read/write benchmark, consistency & CAP theorem analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
